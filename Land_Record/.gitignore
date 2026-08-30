@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local SQLite Database
+*.db
+
+# Environment variables (if you ever use .env files)
+.env
